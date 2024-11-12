@@ -42,6 +42,10 @@ In this project, you will learn:
 ```
 git clone https://github.com/your-username/gcp-vpc-network-setup.git
 cd gcp-vpc-network-setup
+```
+
+**2. Set Up the VPC Network** <br>
+Follow the steps in network-config.yaml to create an auto mode VPC network with default subnets in each region.
 
 
 
